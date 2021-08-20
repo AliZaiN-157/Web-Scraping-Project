@@ -27,9 +27,9 @@ In [Basic Concepts](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/mai
 ### `2. Scraping with BeautifulSoup`
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a python library for scaping HTML and XML files.
 
-- [Beginner Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/1.%20Beginner%20Project)
-- [Intermediate Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/2.%20Intermediate%20Project)
-- [Advance Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/3.%20Advanced%20Project)
+- [Books Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/1.%20Books%20Project)
+- [Real State Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/2.%20Real%20State%20Project)
+- [Restaurant Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/3.%20Restaurant%20Project)
 - [Ecommerce Project](https://github.com/AliZaiN-157/Web-Crawling-Project/tree/main/2.%20Scraping%20with%20Beautiful%20Soup/4.%20Ecommerce%20Store%20Project)
 
 
